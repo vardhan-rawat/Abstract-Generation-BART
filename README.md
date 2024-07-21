@@ -10,9 +10,9 @@ The Research Paper Abstract Generator leverages state-of-the-art natural languag
 ## Tools and Technologies
 
 - **Model:** BART (Bidirectional and Auto-Regressive Transformers)
-- **Framework:** Hugging Face AutoTrain
+- **Training Framework:** Hugging Face AutoTrain
 - **Dataset:** ArXiv Dataset
-- **Interface:** Gradio
+- **User Interface:** Gradio
 - **Hosted Model:** [vardhan-rawat/autotrain-BART-ARXIV](https://huggingface.co/vardhan-rawat/autotrain-BART-ARXIV)
 
 ## Training Process
