@@ -64,21 +64,21 @@ To know more about ROUGE scores, refer to the [link in the References](#referenc
 ## How to Use
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/your-username/research-paper-abstract-generator.git
-   \`\`\`
+   ```
 
 2. Install the necessary dependencies:
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 3. Ensure you have your Hugging Face token ready. You can get it from your [Hugging Face account](https://huggingface.co/settings/tokens).
 
 4. Run the abstract generator:
-   \`\`\`bash
+   ```bash
    python abstract_generator.py --hf_token YOUR_HUGGING_FACE_TOKEN
-   \`\`\`
+   ```
 
 ## User Interface
 
