@@ -90,7 +90,3 @@ A user-friendly interface has been implemented using Gradio. Users can upload a 
 - [BART Research Paper](https://arxiv.org/abs/1910.13461)
 - [Article Explaining ROUGE Scores](https://medium.com/@eren9677/text-summarization-387836c9e178)
 - [Hugging Face AutoTrain Documentation](https://huggingface.co/docs/autotrain/en/index)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
