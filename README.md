@@ -92,5 +92,5 @@ The abstract generated might contain some reference tags if present in the given
 
 - [ArXiv Dataset](https://www.kaggle.com/Cornell-University/arxiv)
 - [BART Research Paper](https://arxiv.org/abs/1910.13461)
-- [Article Explaining ROUGE Scores](https://medium.com/@eren9677/text-summarization-387836c9e178)
+- [Article Explaining About ROUGE Scores](https://medium.com/@eren9677/text-summarization-387836c9e178)
 - [Hugging Face AutoTrain Documentation](https://huggingface.co/docs/autotrain/en/index)
