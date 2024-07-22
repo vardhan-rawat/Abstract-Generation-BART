@@ -84,6 +84,10 @@ To know more about ROUGE scores, refer to the [link in the References](#referenc
 
 A user-friendly interface has been implemented using Gradio. Users can upload a PDF file of a research paper without an abstract, and the tool will generate an abstract for it.
 
+## Note
+
+The abstract generated might contain some reference tags if present in the given research paper.
+
 ## References
 
 - [ArXiv Dataset](https://www.kaggle.com/Cornell-University/arxiv)
